@@ -3,7 +3,7 @@
 # Avvari Naga Harthikanand (Harthik)
 
 <a href="https://github.com/harctik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=AI+%26+Machine+Learning+Engineer;Fraud+Detection+%E2%80%A2+Behavioral+Biometrics+%E2%80%A2+Risk+Analytics;Graph+Neural+Networks+%E2%80%A2+Custom+Transformers+%E2%80%A2+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=AI+%26+Machine+Learning+Engineer;Fraud+Detection+%E2%80%A2+Behavioral+Biometrics+%E2%80%A2+Threat+Intel;Graph+Neural+Networks+%E2%80%A2+Custom+Transformers+%E2%80%A2+Full-Stack" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Executive Summary
 
-AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **behavioral biometrics**, **neural architectures**, and **quantitative risk analytics**. Currently training LLMs at **Outlier**. Architect of **AetherAuth** (continuous authentication ensemble over 200+ features), **Kira** (custom PyTorch Transformer scaled from 15M to 3B parameters), and contributor to **PRAMAANIK** (public fund fraud tracking with Besu & Graph Neural Networks).
+AI/ML & Cybersecurity Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **behavioral biometrics**, **adversarial threat intelligence**, and **neural architectures**. Currently training LLMs at **Outlier**. Architect of **AetherAuth** (continuous biometrics authentication ensemble over 200+ features), **PhishGuard** (real-time homoglyph & zero-day phishing detection), **PRAMAANIK** (public fund tracking with Besu & Graph Neural Networks), and **Kira** (custom PyTorch Transformer scaled up to 3.2B parameters).
 
 ---
 
@@ -35,8 +35,8 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 | **ML & Deep Learning** | `PyTorch` `scikit-learn` `PyTorch Geometric (GNNs)` `Transformers` `LightGBM` `Isolation Forest` `VAEs` `GRUs` |
 | **LLM & GenAI** | `LangChain` `LangGraph` `Gemini API` `Claude API` `Arize AI (LLM Evals)` `Qdrant Vector DB` |
 | **Backend & Systems** | `FastAPI` `Flask` `Docker` `Kubernetes (Helm)` `GitHub Actions CI/CD` `Celery` `REST APIs` |
-| **Data & Storage** | `PostgreSQL` `Redis` `SQLite` `Pandas` `NumPy` `Monte Carlo Simulation` |
-| **Security & Compliance** | `Fernet Encryption` `SHA-256 Tamper Chains` `JWT / CSRF` `RBI Master Directions` `PCI DSS 4.0` `DPDP Act 2023` |
+| **Security & Sec-Ops** | `Homoglyph/Punycode Analysis` `Shannon Entropy` `Fernet Encryption` `SHA-256 Tamper Chains` `JWT / CSRF` |
+| **Compliance Frameworks** | `RBI Master Directions 2021` `PCI DSS 4.0` `DPDP Act 2023` `GDPR` |
 | **Blockchain** | `Hyperledger Besu (QBFT)` `Solidity 0.8+` `Foundry` `zkML (EZKL / Halo2)` `Privado ID` |
 
 </div>
@@ -62,14 +62,14 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [Kira — Autonomous AI System](https://github.com/harctik/Kira)
-**Local Neural Model & Self-Evolving Agent Architecture**
-- Custom-built PyTorch Transformer (RoPE, RMSNorm, SwiGLU, GQA) scaling from **15M to 3.2B parameters** with CPU INT8 quantization.
-- Built with **Zero AI Contamination** using pure human code & text corpora; custom 8k BPE tokenizer trained from scratch.
-- Continuous learning memory loop (`evolution.py`) with OS tool execution and mobile bridge server.
-- **Stack:** `Python` `PyTorch 2.0` `FastAPI` `NumPy` `BPE Tokenization`
+### 🔍 [PhishGuard — Real-Time Phishing Intelligence](https://github.com/harctik/PhishGuard)
+**Manifest V3 Browser Shield & FastAPI Inspection Engine**
+- Intercepts zero-day credential harvesting and **Punycode / Homoglyph character spoofing** in real-time.
+- Multi-signal detection engine analyzing **Shannon entropy**, lexical URL vectors, brand target camouflage, and SSL anomalies.
+- Manifest V3 Chrome Extension paired with an asynchronous FastAPI threat scoring service.
+- **Stack:** `Python` `FastAPI` `Chrome Extension (MV3)` `Entropy Analysis` `REST APIs`
 
-[GitHub](https://github.com/harctik/Kira)
+[GitHub](https://github.com/harctik/PhishGuard)
 
 </td>
 </tr>
@@ -88,20 +88,6 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 </td>
 <td width="50%" valign="top">
 
-### 🎓 [Studvisor — Next-Gen AI College ERP](https://github.com/harctik/Studvisor)
-**Enterprise Student Engagement & Risk Platform**
-- High-security educational ERP with **FastAPI** backend, three-layer RBAC, and immutable audit middleware.
-- **Anthropic Claude-3 / Ollama** AI assistant for predictive student dropout risk, GPA forecasting, and context-aware RAG tutoring.
-- Modern React / Vite / Tailwind UI with gamified badges and conflict-aware academic scheduling.
-- **Stack:** `FastAPI` `Python` `React` `PostgreSQL` `Claude API` `Docker`
-
-[GitHub](https://github.com/harctik/Studvisor)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📈 [Crypto Investment Manager](https://github.com/harctik/Crypto-Investment-Manager)
 **Quantitative Portfolio Analytics & Risk Engine**
 - Built during **Infosys Springboard 6.0**; quantitative asset allocator modeling risk and returns from scratch.
@@ -112,14 +98,30 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 [Live App](https://cryptomanagerapp.vercel.app) • [GitHub](https://github.com/harctik/Crypto-Investment-Manager)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🤖 [AuditAI — LLM Quality Assurance](https://github.com/harctik)
-**Automated Support Conversation Auditing Engine**
-- Intelligent auditing architecture for customer support interaction analysis and compliance scoring.
-- RAG pipeline utilizing **Qdrant Vector Database** for policy matching and context retrieval.
-- Automated scorecards, sentiment trajectories, and anomaly alerts powered by the **Gemini API**.
-- **Stack:** `FastAPI` `Python` `Gemini API` `Qdrant` `PostgreSQL` `Docker`
+### 🧠 [Kira — Autonomous AI System](https://github.com/harctik/Kira)
+**Local Neural Model & Self-Evolving Agent Architecture**
+- Custom-built PyTorch Transformer (RoPE, RMSNorm, SwiGLU, GQA) scaling from **15M to 3.2B parameters** with CPU INT8 quantization.
+- Built with **Zero AI Contamination** using pure human code & text corpora; custom 8k BPE tokenizer trained from scratch.
+- Continuous learning memory loop with OS tool execution and mobile bridge server.
+- **Stack:** `Python` `PyTorch 2.0` `FastAPI` `NumPy` `BPE Tokenization`
+
+[GitHub](https://github.com/harctik/Kira)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Studvisor — Next-Gen AI College ERP](https://github.com/harctik/Studvisor)
+**Enterprise Student Engagement & Risk Platform**
+- High-security educational ERP with **FastAPI** backend, three-layer RBAC, and immutable audit middleware.
+- **Anthropic Claude-3 / Ollama** AI assistant for predictive student dropout risk, GPA forecasting, and context-aware RAG tutoring.
+- Modern React / Vite / Tailwind UI with gamified badges and conflict-aware academic scheduling.
+- **Stack:** `FastAPI` `Python` `React` `PostgreSQL` `Claude API` `Docker`
+
+[GitHub](https://github.com/harctik/Studvisor)
 
 </td>
 </tr>
