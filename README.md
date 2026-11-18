@@ -3,7 +3,7 @@
 # Avvari Naga Harthikanand (Harthik)
 
 <a href="https://github.com/harctik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=AI+%26+Machine+Learning+Engineer;Fraud+Detection+%E2%80%A2+Behavioral+Biometrics+%E2%80%A2+Risk+Analytics;Graph+Neural+Networks+%E2%80%A2+LLM+Evaluation+%E2%80%A2+Full-Stack" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=90&lines=AI+%26+Machine+Learning+Engineer;Fraud+Detection+%E2%80%A2+Behavioral+Biometrics+%E2%80%A2+Risk+Analytics;Graph+Neural+Networks+%E2%80%A2+Custom+Transformers+%E2%80%A2+Full-Stack" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ## 👨‍💻 Executive Summary
 
-AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **behavioral biometrics**, and **quantitative risk analytics**. Currently training LLMs at **Outlier**. Architect of **AetherAuth** (a continuous behavioral authentication platform with a 9-engine ML ensemble over 200+ features) and contributor to **PRAMAANIK** (a public fund fraud tracking network combining Hyperledger Besu with PyTorch Geometric Graph Neural Networks).
+AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **behavioral biometrics**, **neural architectures**, and **quantitative risk analytics**. Currently training LLMs at **Outlier**. Architect of **AetherAuth** (continuous authentication ensemble over 200+ features), **Kira** (custom PyTorch Transformer scaled from 15M to 3B parameters), and contributor to **PRAMAANIK** (public fund fraud tracking with Besu & Graph Neural Networks).
 
 ---
 
@@ -32,7 +32,7 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 | Domain | Technologies & Frameworks |
 |---|---|
 | **Core Languages** | `Python` `TypeScript` `JavaScript` `SQL` `Solidity` |
-| **ML & Deep Learning** | `PyTorch` `scikit-learn` `PyTorch Geometric (GNNs)` `LightGBM` `Isolation Forest` `Transformers` `VAEs` `GRUs` |
+| **ML & Deep Learning** | `PyTorch` `scikit-learn` `PyTorch Geometric (GNNs)` `Transformers` `LightGBM` `Isolation Forest` `VAEs` `GRUs` |
 | **LLM & GenAI** | `LangChain` `LangGraph` `Gemini API` `Claude API` `Arize AI (LLM Evals)` `Qdrant Vector DB` |
 | **Backend & Systems** | `FastAPI` `Flask` `Docker` `Kubernetes (Helm)` `GitHub Actions CI/CD` `Celery` `REST APIs` |
 | **Data & Storage** | `PostgreSQL` `Redis` `SQLite` `Pandas` `NumPy` `Monte Carlo Simulation` |
@@ -52,7 +52,7 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 
 ### 🛡️ [AetherAuth — Behavioral Biometrics](https://github.com/harctik/behavioral-biometrics)
 **Continuous Zero-Trust Authentication Platform**
-- 9-engine ML ensemble (Isolation Forest, GRU, Transformer, VAE, LightGBM) extracting **200+ behavioral micro-features** across keystroke dynamics, cursor curvature, and touch.
+- 9-engine ML ensemble (Isolation Forest, GRU, Transformer, VAE, LightGBM) extracting **200+ behavioral micro-features** across keystroke dynamics and cursor trajectory.
 - Sub-50ms inference latency; zero CAPTCHAs or OTP friction.
 - Compliant with **RBI Master Directions 2021**, **PCI DSS 4.0**, and **DPDP Act 2023**; SHA-256 hash-linked audit chain & Fernet encryption.
 - **Stack:** `Python` `Flask 3` `Next.js 16` `PostgreSQL` `Redis` `Docker` `Helm`
@@ -60,6 +60,20 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 [Live App](https://frontend-dun-five-49.vercel.app) • [GitHub](https://github.com/harctik/behavioral-biometrics)
 
 </td>
+<td width="50%" valign="top">
+
+### 🧠 [Kira — Autonomous AI System](https://github.com/harctik/Kira)
+**Local Neural Model & Self-Evolving Agent Architecture**
+- Custom-built PyTorch Transformer (RoPE, RMSNorm, SwiGLU, GQA) scaling from **15M to 3.2B parameters** with CPU INT8 quantization.
+- Built with **Zero AI Contamination** using pure human code & text corpora; custom 8k BPE tokenizer trained from scratch.
+- Continuous learning memory loop (`evolution.py`) with OS tool execution and mobile bridge server.
+- **Stack:** `Python` `PyTorch 2.0` `FastAPI` `NumPy` `BPE Tokenization`
+
+[GitHub](https://github.com/harctik/Kira)
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 🏛️ [PRAMAANIK — Public Fund Tracking](https://github.com/harctik/pramaanik)
@@ -70,6 +84,18 @@ AI/ML Engineer (BCA in AI/ML, CGPA 8.52) specializing in **fraud detection**, **
 - **Stack:** `Solidity` `Hyperledger Besu` `PyTorch Geometric` `Next.js 14` `Foundry`
 
 [Live App](https://pramaanik.vercel.app) • [GitHub](https://github.com/harctik/pramaanik)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 [Studvisor — Next-Gen AI College ERP](https://github.com/harctik/Studvisor)
+**Enterprise Student Engagement & Risk Platform**
+- High-security educational ERP with **FastAPI** backend, three-layer RBAC, and immutable audit middleware.
+- **Anthropic Claude-3 / Ollama** AI assistant for predictive student dropout risk, GPA forecasting, and context-aware RAG tutoring.
+- Modern React / Vite / Tailwind UI with gamified badges and conflict-aware academic scheduling.
+- **Stack:** `FastAPI` `Python` `React` `PostgreSQL` `Claude API` `Docker`
+
+[GitHub](https://github.com/harctik/Studvisor)
 
 </td>
 </tr>
