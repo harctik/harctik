@@ -2,7 +2,7 @@
 
 <!-- Header -->
 <a href="https://github.com/harctik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Harctik;AI%2FML+Engineer+%7C+Fraud+Detection+%7C+Security" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=70A5FD&center=true&vCenter=true&multiline=true&repeat=true&width=650&height=100&lines=Hey+%F0%9F%91%8B%2C+I'm+Harthik;AI+Engineer+%7C+ML+%7C+LLMs+%7C+Agentic+Systems" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,12 +13,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm an **AI/ML Engineer** passionate about building intelligent security systems. My work centers on **fraud detection**, **behavioral biometrics**, and **adaptive authentication** — turning complex human behavior patterns into real-time security decisions.
+I'm **Harthik** — an **AI Engineer** building intelligent systems at the intersection of machine learning, deep learning, and agentic architectures. Currently training LLMs at **Outlier** and graduating with a **BCA (8.76 CGPA)** from Christ Academy, Bengaluru.
 
-- 🔬 Building ML-powered auth systems with **scikit-learn** & **Python**
-- 🌐 Full-stack development with **Flask**, **Next.js** & **React**
-- 🛡️ Focused on compliance frameworks — **RBI**, **PCI DSS**
-- 📊 Exploring real-time risk scoring and anomaly detection
+- 🧠 **ML & Deep Learning** — Training, fine-tuning & deploying models with **PyTorch** & **scikit-learn**
+- 🤖 **LLMs & Agents** — Building RAG pipelines, tool-calling agents with **LangChain** & **LangGraph**
+- 🛡️ **Security & Fraud Detection** — Behavioral biometrics, continuous auth, real-time risk scoring
+- ⚡ **Full-Stack** — Production APIs with **FastAPI**, **Flask**, **Next.js** | Docker & Kubernetes
+- 📊 **Quantitative Analytics** — Monte Carlo simulations, VaR, anomaly detection pipelines
 
 <br/>
 
@@ -34,6 +35,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent security systems
 
 **Frameworks & Libraries**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -41,9 +43,11 @@ I'm an **AI/ML Engineer** passionate about building intelligent security systems
 
 **ML / AI**
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Databases**
 
@@ -54,6 +58,7 @@ I'm an **AI/ML Engineer** passionate about building intelligent security systems
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
@@ -109,7 +114,7 @@ Real-time cryptocurrency portfolio tracker with ML-powered **risk prediction**, 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-harctik-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/harctik)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-harctik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/harctik) -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harthik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harthik/)
 
 </div>
 
