@@ -2,20 +2,13 @@
 
 <img src="assets/hero.svg" alt="Harthik, AI/ML Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=D2F843&center=true&vCenter=true&width=760&lines=Harthik+%7C+AI+%2F+ML+Engineer;Behavioural+Biometrics+%C2%B7+Fraud+Detection;Risk+Analytics+%C2%B7+Deep+Learning+%C2%B7+Blockchain;Building+transformers+from+scratch+in+PyTorch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=D2F843&center=true&vCenter=true&width=760&lines=Behavioural+biometrics+and+fraud+detection;Risk+analytics+and+deep+learning;Transformers+from+scratch+in+PyTorch;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=D2F843)
-![PyTorch](https://img.shields.io/badge/PyTorch-050505?style=for-the-badge&logo=pytorch&logoColor=D2F843)
-![FastAPI](https://img.shields.io/badge/FastAPI-050505?style=for-the-badge&logo=fastapi&logoColor=D2F843)
-![Next.js](https://img.shields.io/badge/Next.js-050505?style=for-the-badge&logo=nextdotjs&logoColor=D2F843)
-![Docker](https://img.shields.io/badge/Docker-050505?style=for-the-badge&logo=docker&logoColor=D2F843)
-![Solidity](https://img.shields.io/badge/Solidity-050505?style=for-the-badge&logo=solidity&logoColor=D2F843)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harthik-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harthik)
-[![Email](https://img.shields.io/badge/Email-harthikanand90%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harthikanand90@gmail.com)
-![Location](https://img.shields.io/badge/Bengaluru-India-D2F843?style=flat-square)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harthik-050505?style=for-the-badge&logo=linkedin&logoColor=D2F843)](https://www.linkedin.com/in/harthik)
+[![Email](https://img.shields.io/badge/Email-harthikanand90%40gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=D2F843)](mailto:harthikanand90@gmail.com)
+![Visitors](https://komarev.com/ghpvc/?username=harctik&color=D2F843&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -28,18 +21,10 @@ class Harthik:
     focus     = ["behavioural biometrics", "fraud detection", "risk analytics"]
     building  = ["continuous auth", "zkML on-chain fraud flags", "LLMs from scratch"]
     values    = "fast, reliable, production AI inside real constraints"
+    open_to   = "AI/ML Engineer roles in fraud, identity and risk"
 ```
 
-## Featured projects
-
-| Project | What it does | Stack |
-|---|---|---|
-| [**AetherAuth**](https://github.com/harctik/behavioral-biometrics) · [live](https://frontend-dun-five-49.vercel.app) | Continuous passive authentication from keystroke, cursor and cognitive signals, with adaptive step-up challenge | Python, Flask, Next.js, PostgreSQL, Redis, Docker, Helm |
-| [**PRAMAANIK**](https://github.com/harctik/pramaanik) · [live](https://pramaanik.vercel.app) | Public fund tracking on a 4-node Besu QBFT chain with RGCN anomaly detection proven on-chain via EZKL / Halo2 | Solidity, Foundry, PyTorch Geometric, Next.js |
-| [**PhishGuard**](https://github.com/harctik/PhishGuard) | Manifest V3 extension + FastAPI backend catching homoglyph and high-entropy phishing domains | Python, FastAPI, Chrome Extension APIs, pytest |
-| [**kira.ai**](https://github.com/harctik/kira.ai) | Decoder-only transformer family from scratch (RoPE, GQA, SwiGLU, RMSNorm), INT8 CPU inference | PyTorch |
-| [**QuantRisk**](https://github.com/harctik/Crypto-Investment-Manager) · [live](https://cryptomanagerapp.vercel.app) | Markowitz optimisation, VaR / CVaR, Monte Carlo stress tests and strategy backtests | Python, Flask, SQLite, CoinGecko API |
-| [**Studvisor**](https://github.com/harctik/Studvisor) | Academic ERP with RBAC, attendance amendment workflow and rule-based dropout-risk scoring | FastAPI, React, Alembic |
+<img src="assets/h_projects.svg" width="100%" />
 
 <div align="center">
 
@@ -47,7 +32,39 @@ class Harthik:
 
 </div>
 
-## Tech stack
+| Project | What it does | Stack |
+|---|---|---|
+| [**AetherAuth**](https://github.com/harctik/behavioral-biometrics) · [live](https://frontend-dun-five-49.vercel.app) | Continuous passive authentication from keystroke, cursor and cognitive signals, with an adaptive step-up challenge | Python, Flask, Next.js, PostgreSQL, Redis, Docker, Helm |
+| [**PRAMAANIK**](https://github.com/harctik/pramaanik) · [live](https://pramaanik.vercel.app) | Public fund tracking on a 4-node Besu QBFT chain with RGCN anomaly detection proven on-chain via EZKL and Halo2 | Solidity, Foundry, PyTorch Geometric, Next.js |
+| [**PhishGuard**](https://github.com/harctik/PhishGuard) | Manifest V3 extension and FastAPI backend that catches homoglyph and high-entropy phishing domains | Python, FastAPI, Chrome Extension APIs, pytest |
+| [**kira.ai**](https://github.com/harctik/kira.ai) | Decoder-only transformer family from scratch (RoPE, GQA, SwiGLU, RMSNorm) with INT8 CPU inference | PyTorch |
+| [**QuantRisk**](https://github.com/harctik/Crypto-Investment-Manager) · [live](https://cryptomanagerapp.vercel.app) | Markowitz optimisation, VaR and CVaR, Monte Carlo stress tests and strategy backtests | Python, Flask, SQLite, CoinGecko API |
+| [**Studvisor**](https://github.com/harctik/Studvisor) | Academic ERP with role-based access, an attendance amendment workflow and rule-based dropout-risk scoring | FastAPI, React, Alembic |
+
+<div align="center">
+
+<a href="https://github.com/harctik/behavioral-biometrics"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harctik&repo=behavioral-biometrics&hide_border=true&title_color=D2F843&icon_color=D2F843&text_color=ffffff&bg_color=050505" /></a>
+<a href="https://github.com/harctik/pramaanik"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harctik&repo=pramaanik&hide_border=true&title_color=D2F843&icon_color=D2F843&text_color=ffffff&bg_color=050505" /></a>
+<a href="https://github.com/harctik/PhishGuard"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harctik&repo=PhishGuard&hide_border=true&title_color=D2F843&icon_color=D2F843&text_color=ffffff&bg_color=050505" /></a>
+<a href="https://github.com/harctik/kira.ai"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harctik&repo=kira.ai&hide_border=true&title_color=D2F843&icon_color=D2F843&text_color=ffffff&bg_color=050505" /></a>
+<a href="https://github.com/harctik/Crypto-Investment-Manager"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harctik&repo=Crypto-Investment-Manager&hide_border=true&title_color=D2F843&icon_color=D2F843&text_color=ffffff&bg_color=050505" /></a>
+<a href="https://github.com/harctik/Studvisor"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=harctik&repo=Studvisor&hide_border=true&title_color=D2F843&icon_color=D2F843&text_color=ffffff&bg_color=050505" /></a>
+
+</div>
+
+<img src="assets/divider.svg" width="100%" />
+
+<img src="assets/flow_aetherauth.svg" width="100%" />
+
+<br/>
+
+<img src="assets/scaling_kira.svg" width="100%" />
+
+<img src="assets/h_numbers.svg" width="100%" />
+
+<img src="assets/numbers.svg" width="100%" />
+
+<img src="assets/h_stack.svg" width="100%" />
 
 <div align="center">
 
@@ -60,11 +77,11 @@ class Harthik:
 | **Languages** | Python · TypeScript · JavaScript · SQL · Solidity |
 | **ML** | PyTorch · PyTorch Geometric · scikit-learn · LightGBM · Isolation Forest · Transformers |
 | **LLM** | LangChain · LangGraph · Claude API · Gemini API · Arize Phoenix · Qdrant |
-| **Backend / Infra** | FastAPI · Flask · Docker · Kubernetes · Helm · GitHub Actions · Redis · PostgreSQL |
+| **Backend and infra** | FastAPI · Flask · Docker · Kubernetes · Helm · GitHub Actions · Redis · PostgreSQL |
 | **Security** | JWT · CSRF · Fernet · SHA-256 audit chains · entropy and homoglyph analysis |
 | **Blockchain** | Hyperledger Besu · Foundry · EZKL · Halo2 |
 
-## GitHub stats
+<img src="assets/h_activity.svg" width="100%" />
 
 <div align="center">
 
@@ -73,9 +90,11 @@ class Harthik:
 
 <img src="https://streak-stats.demolab.com?user=harctik&hide_border=true&background=050505&ring=D2F843&fire=D2F843&currStreakLabel=D2F843&currStreakNum=ffffff&sideNums=ffffff&sideLabels=9aa38a&dates=9aa38a" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=harctik&bg_color=050505&color=ffffff&line=D2F843&point=ffffff&area=true&area_color=D2F843&hide_border=true&hide_title=true" width="100%" />
+
 <img src="https://github-profile-trophy.vercel.app/?username=harctik&theme=matrix&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
-<img src="https://raw.githubusercontent.com/harctik/harctik/output/github-snake-dark.svg" alt="contribution snake" />
+<img src="https://raw.githubusercontent.com/harctik/harctik/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
 
 </div>
 
@@ -83,18 +102,22 @@ class Harthik:
 
 <div align="center"><img src="assets/terminal.svg" width="100%" /></div>
 
-## Certifications
-
-Arize AI (LLM Evaluation Basics) · Anthropic (Building with the Claude API) · IBM (Generative AI; Python for Data Science) · Infosys Springboard (Advanced Statistics and Data Mining; DBMS) · EXIN BCS (AI Essentials)
-
 ## Experience
 
 - **Outlier AI**: Generalist AI Contributor (Sep to Nov 2026), model reasoning and instruction-following evaluation
 - **Infosys Springboard 6.0**: AI/ML Intern (Feb to Apr 2026), built QuantRisk
 - **Zebo.AI with Verzeo**: AI Project Intern (Mar to May 2022), computer vision for fashion classification
 
+## Certifications
+
+Arize AI (LLM Evaluation Basics) · Anthropic (Building with the Claude API) · IBM (Generative AI; Python for Data Science) · Infosys Springboard (Advanced Statistics and Data Mining; DBMS) · EXIN BCS (AI Essentials)
+
+<img src="assets/h_contact.svg" width="100%" />
+
+Email [harthikanand90@gmail.com](mailto:harthikanand90@gmail.com) or message me on [LinkedIn](https://www.linkedin.com/in/harthik). Based in Bengaluru, India.
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=D2F843&height=120&section=footer&animation=twinkling" width="100%" /><br/><sub>Open to AI/ML Engineer roles in fraud, identity and risk.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=D2F843&height=120&section=footer&animation=twinkling" width="100%" />
 
 </div>
