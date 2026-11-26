@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Harthik. I build systems that know who is typing." width="100%" />
+<img src="assets/hero.v2.svg" alt="Harthik. I build systems that know who is typing." width="100%" />
 
-<img src="assets/status.svg" alt="AI/ML engineer. Fraud, identity, risk. Transformers from scratch. Open to roles." width="700" />
+<img src="assets/status.v2.svg" alt="AI/ML engineer. Fraud, identity, risk. Transformers from scratch. Open to roles." width="700" />
 
-<a href="mailto:harthikanand90@gmail.com"><img src="assets/btn_primary.svg" height="32" alt="Email me" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/harthik"><img src="assets/btn_linkedin.svg" height="32" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/harctik"><img src="assets/btn_github.svg" height="32" alt="GitHub" /></a>
+<a href="mailto:harthikanand90@gmail.com"><img src="assets/btn_primary.v2.svg" height="32" alt="Email me" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/harthik"><img src="assets/btn_linkedin.v2.svg" height="32" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/harctik"><img src="assets/btn_github.v2.svg" height="32" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -14,16 +14,16 @@
 
 <table>
 <tr>
-<td><a href="https://frontend-dun-five-49.vercel.app"><img src="assets/card_aetherauth.svg" width="430" alt="AetherAuth, live demo" /></a></td>
-<td><a href="https://pramaanik.vercel.app"><img src="assets/card_pramaanik.svg" width="430" alt="PRAMAANIK, live demo" /></a></td>
+<td><a href="https://frontend-dun-five-49.vercel.app"><img src="assets/card_aetherauth.v2.svg" width="430" alt="AetherAuth, live demo" /></a></td>
+<td><a href="https://pramaanik.vercel.app"><img src="assets/card_pramaanik.v2.svg" width="430" alt="PRAMAANIK, live demo" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/harctik/PhishGuard"><img src="assets/card_phishguard.svg" width="430" alt="PhishGuard, repository" /></a></td>
-<td><a href="https://cryptomanagerapp.vercel.app"><img src="assets/card_quantrisk.svg" width="430" alt="QuantRisk, live demo" /></a></td>
+<td><a href="https://github.com/harctik/PhishGuard"><img src="assets/card_phishguard.v2.svg" width="430" alt="PhishGuard, repository" /></a></td>
+<td><a href="https://cryptomanagerapp.vercel.app"><img src="assets/card_quantrisk.v2.svg" width="430" alt="QuantRisk, live demo" /></a></td>
 </tr>
 </table>
 
-<a href="https://github.com/harctik/kira.ai"><img src="assets/also.svg" width="860" alt="Also: kira.ai and Studvisor" /></a>
+<a href="https://github.com/harctik/kira.ai"><img src="assets/also.v2.svg" width="860" alt="Also: kira.ai and Studvisor" /></a>
 
 <sub>Source: [AetherAuth](https://github.com/harctik/behavioral-biometrics) · [PRAMAANIK](https://github.com/harctik/pramaanik) · [PhishGuard](https://github.com/harctik/PhishGuard) · [kira.ai](https://github.com/harctik/kira.ai) · [QuantRisk](https://github.com/harctik/Crypto-Investment-Manager) · [Studvisor](https://github.com/harctik/Studvisor)</sub>
 
