@@ -1,54 +1,49 @@
-<div align="center">
+# Harthik
 
-<img src="assets/hero.v2.svg" alt="Harthik. I build systems that know who is typing." width="100%" />
+AI/ML engineer. I build systems that know who is typing, and I work on fraud, identity and risk. Open to roles.
 
-<img src="assets/status.v2.svg" alt="AI/ML engineer. Fraud, identity, risk. Transformers from scratch. Open to roles." width="700" />
+[Email](mailto:harthikanand90@gmail.com) · [LinkedIn](https://www.linkedin.com/in/harthik)
 
-<a href="mailto:harthikanand90@gmail.com"><img src="assets/btn_primary.v3.svg" height="32" alt="Email me" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/harthik"><img src="assets/btn_linkedin.v3.svg" height="32" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/harctik"><img src="assets/btn_github.v3.svg" height="32" alt="GitHub" /></a>
-
-<br/><br/>
-
-<img src="assets/h_work.svg" width="100%" alt="Work" />
+## Work
 
 <table>
 <tr>
-<td><a href="https://frontend-dun-five-49.vercel.app"><img src="assets/card_aetherauth.v3.svg" width="430" alt="AetherAuth, live demo" /></a></td>
-<td><a href="https://pramaanik.vercel.app"><img src="assets/card_pramaanik.v3.svg" width="430" alt="PRAMAANIK, live demo" /></a></td>
+<td width="96" align="center"><a href="https://github.com/harctik/behavioral-biometrics"><img src="assets/logos/aetherauth.svg" width="64" height="64" alt="AetherAuth logo"></a></td>
+<td><b>AetherAuth</b><br>Checks who is at the keyboard after login, using typing rhythm and mouse movement.<br><sub>Next.js, Flask, scikit-learn &nbsp;|&nbsp; <a href="https://github.com/harctik/behavioral-biometrics">Code</a> · <a href="https://frontend-dun-five-49.vercel.app">Live demo</a></sub></td>
 </tr>
 <tr>
-<td><a href="https://github.com/harctik/PhishGuard"><img src="assets/card_phishguard.v3.svg" width="430" alt="PhishGuard, repository" /></a></td>
-<td><a href="https://cryptomanagerapp.vercel.app"><img src="assets/card_quantrisk.v3.svg" width="430" alt="QuantRisk, live demo" /></a></td>
+<td width="96" align="center"><a href="https://github.com/harctik/pramaanik"><img src="assets/logos/pramaanik.svg" width="64" height="64" alt="PRAMAANIK logo"></a></td>
+<td><b>PRAMAANIK</b><br>Traces public funds on a permissioned chain and flags unusual flows with a graph neural network.<br><sub>Solidity, Hyperledger Besu, PyTorch Geometric &nbsp;|&nbsp; <a href="https://github.com/harctik/pramaanik">Code</a> · <a href="https://pramaanik.vercel.app">Live demo</a></sub></td>
+</tr>
+<tr>
+<td width="96" align="center"><a href="https://github.com/harctik/PhishGuard"><img src="assets/logos/vanguard.svg" width="64" height="64" alt="Vanguard logo"></a></td>
+<td><b>Vanguard</b><br>A browser extension that scores the current page's address against fixed phishing rules, using a local Python service.<br><sub>Chrome extension, FastAPI &nbsp;|&nbsp; <a href="https://github.com/harctik/PhishGuard">Code</a></sub></td>
+</tr>
+<tr>
+<td width="96" align="center"><a href="https://github.com/harctik/kira.ai"><img src="assets/logos/kira.svg" width="64" height="64" alt="kira.ai logo"></a></td>
+<td><b>kira.ai</b><br>PyTorch code for training a byte-level BPE tokenizer and a small decoder-only transformer.<br><sub>Python, PyTorch &nbsp;|&nbsp; <a href="https://github.com/harctik/kira.ai">Code</a></sub></td>
+</tr>
+<tr>
+<td width="96" align="center"><a href="https://github.com/harctik/Crypto-Investment-Manager"><img src="assets/logos/quantrisk.svg" width="64" height="64" alt="QuantRisk logo"></a></td>
+<td><b>QuantRisk</b><br>Crypto portfolio tracking with simulation, downside-risk measures and backtests.<br><sub>Flask, Python &nbsp;|&nbsp; <a href="https://github.com/harctik/Crypto-Investment-Manager">Code</a> · <a href="https://cryptomanagerapp.vercel.app">Live demo</a></sub></td>
+</tr>
+<tr>
+<td width="96" align="center"><a href="https://github.com/harctik/Studvisor"><img src="assets/logos/studvisor.svg" width="64" height="64" alt="Studvisor logo"></a></td>
+<td><b>Studvisor</b><br>A college portal for students: attendance, timetable, marks, fees, library and placements.<br><sub>React, FastAPI &nbsp;|&nbsp; <a href="https://github.com/harctik/Studvisor">Code</a></sub></td>
 </tr>
 </table>
 
-<a href="https://github.com/harctik/kira.ai"><img src="assets/also.v2.svg" width="860" alt="Also: kira.ai and Studvisor" /></a>
+## Tools I use
 
-<sub>Source: [AetherAuth](https://github.com/harctik/behavioral-biometrics) · [PRAMAANIK](https://github.com/harctik/pramaanik) · [PhishGuard](https://github.com/harctik/PhishGuard) · [kira.ai](https://github.com/harctik/kira.ai) · [QuantRisk](https://github.com/harctik/Crypto-Investment-Manager) · [Studvisor](https://github.com/harctik/Studvisor)</sub>
+**Models:** Python, PyTorch, scikit-learn  
+**Services:** FastAPI, Flask, PostgreSQL, Redis  
+**Interfaces:** TypeScript, React, Next.js  
+**Infrastructure:** Docker, Kubernetes, Linux, Git, Solidity
 
-<br/><br/>
+## Certifications
 
-<img src="assets/h_hood.svg" width="100%" alt="Under the hood" />
-
-<img src="assets/flow_aetherauth.svg" width="100%" alt="How AetherAuth judges a session" />
-
-<br/>
-
-<img src="assets/scaling_kira.svg" width="100%" alt="kira.ai model sizes" />
-
-<br/>
-
-<img src="assets/h_stack.svg" width="100%" alt="Stack" />
-
-<img src="https://skillicons.dev/icons?i=py,pytorch,sklearn,fastapi,flask,ts,nextjs,react,docker,kubernetes,postgres,redis,solidity,git,linux&perline=15" alt="Python, PyTorch, scikit-learn, FastAPI, Flask, TypeScript, Next.js, React, Docker, Kubernetes, PostgreSQL, Redis, Solidity, Git, Linux" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/harctik/harctik/output/github-snake-dark.svg" alt="contribution snake" width="100%" />
-
-<br/>
-
-<sub>LLM evaluation (Arize AI) · Claude API (Anthropic) · Generative AI and Python for Data Science (IBM) · Statistics and DBMS (Infosys Springboard) · AI Essentials (EXIN BCS)</sub>
-
-</div>
+- LLM evaluation, Arize AI
+- Claude API, Anthropic
+- Generative AI and Python for Data Science, IBM
+- Statistics and DBMS, Infosys Springboard
+- AI Essentials, EXIN BCS
