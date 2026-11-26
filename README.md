@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/harthik"><img src="assets/b_linkedin.svg" height="44" /></a> <a href="mailto:harthikanand90@gmail.com"><img src="assets/b_email.svg" height="44" /></a> <img src="assets/b_open.svg" height="44" />
+<a href="https://www.linkedin.com/in/harthik"><img src="assets/b_linkedin.svg" height="28" /></a> <a href="mailto:harthikanand90@gmail.com"><img src="assets/b_email.svg" height="28" /></a> <img src="assets/b_open.svg" height="28" />
 
 </div>
 
