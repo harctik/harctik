@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/hero.svg" alt="Harthik, AI/ML Engineer" width="100%" />
+
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Harthik+%7C+AI+%2F+ML+Engineer;Behavioural+Biometrics+%C2%B7+Fraud+Detection;Risk+Analytics+%C2%B7+Deep+Learning+%C2%B7+Blockchain;Building+transformers+from+scratch+in+PyTorch" alt="Typing SVG" />
 
 <br/>
@@ -17,7 +19,7 @@
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" />
 
 ```python
 class Harthik:
@@ -47,6 +49,12 @@ class Harthik:
 
 ## Tech stack
 
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,flask,ts,js,nextjs,react,docker,kubernetes,postgres,redis,sqlite,solidity,git,github,vercel,linux&perline=10" />
+
+</div>
+
 | | |
 |---|---|
 | **Languages** | Python · TypeScript · JavaScript · SQL · Solidity |
@@ -71,6 +79,10 @@ class Harthik:
 
 </div>
 
+## Terminal
+
+<div align="center"><img src="assets/terminal.svg" width="100%" /></div>
+
 ## Certifications
 
 Arize AI (LLM Evaluation Basics) · Anthropic (Building with the Claude API) · IBM (Generative AI; Python for Data Science) · Infosys Springboard (Advanced Statistics and Data Mining; DBMS) · EXIN BCS (AI Essentials)
@@ -83,6 +95,6 @@ Arize AI (LLM Evaluation Basics) · Anthropic (Building with the Claude API) · 
 
 <div align="center">
 
-<sub>Open to AI/ML Engineer roles in fraud, identity and risk.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" /><br/><sub>Open to AI/ML Engineer roles in fraud, identity and risk.</sub>
 
 </div>
