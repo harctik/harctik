@@ -1,113 +1,88 @@
-# Avvari Naga Harthikanand
+<div align="center">
 
-AI, Machine Learning and Systems Security Engineer based in Bangalore, Karnataka, India.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Harthik+%7C+AI+%2F+ML+Engineer;Behavioural+Biometrics+%C2%B7+Fraud+Detection;Risk+Analytics+%C2%B7+Deep+Learning+%C2%B7+Blockchain;Building+transformers+from+scratch+in+PyTorch" alt="Typing SVG" />
 
-Email: harthikanand90@gmail.com | LinkedIn: https://www.linkedin.com/in/harthik | GitHub: https://github.com/harctik
+<br/>
 
----
+![Python](https://img.shields.io/badge/Python-0b0f19?style=for-the-badge&logo=python&logoColor=00E5FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-0b0f19?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![FastAPI](https://img.shields.io/badge/FastAPI-0b0f19?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Next.js](https://img.shields.io/badge/Next.js-0b0f19?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0b0f19?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Solidity](https://img.shields.io/badge/Solidity-0b0f19?style=for-the-badge&logo=solidity&logoColor=white)
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-harthik-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harthik)
+[![Email](https://img.shields.io/badge/Email-harthikanand90%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harthikanand90@gmail.com)
+![Location](https://img.shields.io/badge/Bengaluru-India-00E5FF?style=flat-square)
 
-I am an AI and systems engineer specializing in behavioral biometrics, adversarial fraud prevention, and neural architectures. My technical background combines a formal Bachelor of Computer Applications in AI and Machine Learning (8.52 CGPA) from Christ Academy Institute for Advanced Studies with hands-on systems development across continuous authentication, zero-knowledge proofs, and deep learning models.
-
-I currently work as an AI Data Generalist and LLM Trainer at Outlier, evaluating model reasoning, instruction adherence, and hallucination bounds. Previously, I engineered quantitative risk models during Infosys Springboard 6.0 and developed computer vision models for fashion classification at Zebo.AI.
-
-I believe production AI systems must be fast, reliable, and engineered within concrete operational constraints rather than abstract complexity.
-
----
-
-## Technical Competencies
-
-| Domain | Core Toolchain and Libraries |
-|---|---|
-| Languages | Python, TypeScript, JavaScript, SQL, Solidity |
-| Machine Learning | PyTorch, PyTorch Geometric, scikit-learn, LightGBM, Isolation Forest, Transformers, GRU, VAE |
-| LLM Engineering | LangChain, LangGraph, Gemini API, Claude API, Arize Phoenix, Qdrant Vector Search |
-| Backend & Cloud | FastAPI, Flask, Docker, Kubernetes, Helm, GitHub Actions, Celery, Redis, PostgreSQL |
-| Security | Shannon Entropy, Homoglyph Analysis, Fernet Encryption, SHA-256 Audit Chains, JWT, CSRF |
-| Compliance | RBI Master Directions 2021, PCI DSS 4.0, DPDP Act 2023, GDPR |
-| Blockchain | Hyperledger Besu, Solidity 0.8, Foundry, zkML (EZKL, Halo2) |
+</div>
 
 ---
 
-## Featured Engineering Projects
+```python
+class Harthik:
+    role      = "AI/ML Engineer"
+    education = "BCA (AI & ML), Christ Academy Institute for Advanced Studies, CGPA 8.52"
+    focus     = ["behavioural biometrics", "fraud detection", "risk analytics"]
+    building  = ["continuous auth", "zkML on-chain fraud flags", "LLMs from scratch"]
+    values    = "fast, reliable, production AI inside real constraints"
+```
 
-### AetherAuth: Continuous Behavioral Authentication
-Repository: https://github.com/harctik/behavioral-biometrics | Live Application: https://frontend-dun-five-49.vercel.app
+## Featured projects
 
-![AetherAuth Identity Card](assets/project_icons/aetherauth_linkedin_card.png)
-
-A zero-trust identity platform that continuously monitors user interaction dynamics across keystroke rhythms, cursor curvature, and touch patterns rather than relying on point-in-time passwords or recurring SMS OTPs.
-
-The detection core combines nine machine learning engines into an ensemble that extracts over two hundred micro-behavioral features while remaining within a strict fifty millisecond inference budget. The system aligns with RBI Master Directions 2021, PCI DSS 4.0, and the DPDP Act 2023, featuring SHA-256 hash-chained audit trails, Fernet encryption at rest, and an automatic step-up challenge mechanism. Built with Python, Flask, Next.js 16, PostgreSQL, Redis, Docker, and Kubernetes Helm charts.
-
-### PhishGuard: Real-Time Adversarial Phishing Intelligence
-Repository: https://github.com/harctik/PhishGuard
-
-![PhishGuard Identity Card](assets/project_icons/phishguard_linkedin_card.png)
-
-A dual-tier cybersecurity defense system pairing a client-side Manifest V3 Chrome extension with an asynchronous FastAPI threat inspection backend.
-
-PhishGuard neutralizes zero-day phishing campaigns and homoglyph attacks before credentials can be submitted. The engine computes Shannon character entropy over hostnames to identify algorithmic domain generation (DGA), detects mixed-script Unicode spoofing (such as Cyrillic character substitution), flags IP-hosted login pages, and alerts users via real-time DOM banners and threat scores. Engineered with Python, FastAPI, Chrome Extension APIs, and automated pytest suites.
-
-### PRAMAANIK: Public Fund Flow Tracking
-Repository: https://github.com/harctik/pramaanik | Live Application: https://pramaanik.vercel.app
-
-![PRAMAANIK Identity Card](assets/project_icons/pramaanik_linkedin_card.png)
-
-A public fund fraud tracking network developed for the Vemana Hackathon that couples a 4-validator Hyperledger Besu QBFT blockchain with an on-chain verifiable Graph Neural Network.
-
-The architecture tracks public scheme disbursements from central sanctions down to village-level utilization. Anomaly detection is handled by a 3-layer Relational Graph Convolutional Network (RGCN) implemented in PyTorch Geometric, whose fraud flags are cryptographically proven on-chain using EZKL and Halo2 zero-knowledge SNARKs. The contracts achieved over ninety percent test coverage and survived ten thousand fuzzing runs in Foundry. Delivered with Next.js 14 dashboards and Hindi language localization.
-
-### QuantRisk: Crypto Portfolio Optimization
-Repository: https://github.com/harctik/Crypto-Investment-Manager | Live Application: https://cryptomanagerapp.vercel.app
-
-![Crypto Portfolio Manager Identity Card](assets/project_icons/crypto_manager_linkedin_card.png)
-
-An autonomous quantitative portfolio management and risk engineering system developed during Infosys Springboard 6.0.
-
-The platform pulls market quotes from the CoinGecko API and computes empirical covariance matrices to calculate the Markowitz Efficient Frontier via Sequential Least Squares Programming (SLSQP). Risk analytics include historical and parametric Value at Risk (VaR 95/99), Conditional VaR (Expected Shortfall), and Monte Carlo simulations across one thousand stochastic paths. Algorithmic trading strategies (SMA crossover, RSI, Bollinger Bands) are validated via historical backtesting, and automated risk breach notifications are dispatched using the Resend API.
-
-### kira.ai: Autonomous Neural Architecture & Agent Engine
-Repository: https://github.com/harctik/kira.ai
-
-![kira.ai Identity Card](assets/project_icons/kira_card.png)
-
-A scalable decoder-only transformer family built strictly from scratch in PyTorch with zero synthetic AI contamination, designed to run local private inference on consumer CPU hardware.
-
-The architecture features modern Rotary Position Embeddings (RoPE), RMSNorm pre-normalization, SwiGLU gated activations, and Grouped-Query Attention (GQA). Scalable across six configurations ranging from 15M to 3.2B parameters, Kira includes dynamic INT8 CPU quantization, an 8,192-token custom BPE tokenizer trained on pure human-authored corpora, a continuous episodic memory loop, and an OS-level tool execution engine.
-
-### Studvisor: Enterprise Academic ERP Platform
-Repository: https://github.com/harctik/Studvisor
-
-![Studvisor Identity Card](assets/project_icons/studvisor_card.png)
-
-An industrial-grade academic management system engineered with FastAPI, PostgreSQL, and Anthropic Claude-3.
-
-Studvisor replaces fragmented institutional recordkeeping with a three-layer role-based access control architecture, strict twenty-four hour attendance modification windows with supervisory digital sign-offs, and immutable request audit logging. The intelligence layer leverages batch predictive models to compute student dropout risks before examinations and provides streaming Claude-3 RAG tutoring integrated with institutional syllabi.
-
----
-
-## Professional Certifications
-
-| Certification | Issuing Body | Verified Core Skills |
+| Project | What it does | Stack |
 |---|---|---|
-| LLM Evaluation Basics | Arize AI | RAG evaluations, hallucination metrics, tracing |
-| Building with the Claude API | Anthropic | Function calling, context caching, tool calling |
-| Generative AI | IBM | Prompt engineering, foundation models |
-| Python for Data Science | IBM | Vectorized computing, data analysis, model validation |
-| Advanced Statistics and Data Mining | Infosys Springboard | Probability distributions, regression, hypothesis testing |
-| Database Management Systems | Infosys Springboard | Relational schema design, normalization, query optimization |
-| Artificial Intelligence Essentials | EXIN BCS | Ethical AI principles, algorithmic heuristics |
+| [**AetherAuth**](https://github.com/harctik/behavioral-biometrics) · [live](https://frontend-dun-five-49.vercel.app) | Continuous passive authentication from keystroke, cursor and cognitive signals, with adaptive step-up challenge | Python, Flask, Next.js, PostgreSQL, Redis, Docker, Helm |
+| [**PRAMAANIK**](https://github.com/harctik/pramaanik) · [live](https://pramaanik.vercel.app) | Public fund tracking on a 4-node Besu QBFT chain with RGCN anomaly detection proven on-chain via EZKL / Halo2 | Solidity, Foundry, PyTorch Geometric, Next.js |
+| [**PhishGuard**](https://github.com/harctik/PhishGuard) | Manifest V3 extension + FastAPI backend catching homoglyph and high-entropy phishing domains | Python, FastAPI, Chrome Extension APIs, pytest |
+| [**kira.ai**](https://github.com/harctik/kira.ai) | Decoder-only transformer family from scratch (RoPE, GQA, SwiGLU, RMSNorm), INT8 CPU inference | PyTorch |
+| [**QuantRisk**](https://github.com/harctik/Crypto-Investment-Manager) · [live](https://cryptomanagerapp.vercel.app) | Markowitz optimisation, VaR / CVaR, Monte Carlo stress tests and strategy backtests | Python, Flask, SQLite, CoinGecko API |
+| [**Studvisor**](https://github.com/harctik/Studvisor) | Academic ERP with RBAC, attendance amendment workflow and rule-based dropout-risk scoring | FastAPI, React, Alembic |
 
----
+<div align="center">
 
-## Author and Engineering Details
+<img src="assets/project_icons/aetherauth_card.png" width="31%" /> <img src="assets/project_icons/pramaanik_card.png" width="31%" /> <img src="assets/project_icons/kira_card.png" width="31%" />
 
-All software systems, mathematical models, machine learning pipelines, smart contracts, and architectures displayed across this profile were designed and implemented end-to-end by Avvari Naga Harthikanand (Harthik).
+</div>
 
-Developer: Avvari Naga Harthikanand
-Location: Bangalore, Karnataka, India
-LinkedIn: https://www.linkedin.com/in/harthik
-GitHub: https://github.com/harctik
-Email: harthikanand90@gmail.com
+## Tech stack
+
+| | |
+|---|---|
+| **Languages** | Python · TypeScript · JavaScript · SQL · Solidity |
+| **ML** | PyTorch · PyTorch Geometric · scikit-learn · LightGBM · Isolation Forest · Transformers |
+| **LLM** | LangChain · LangGraph · Claude API · Gemini API · Arize Phoenix · Qdrant |
+| **Backend / Infra** | FastAPI · Flask · Docker · Kubernetes · Helm · GitHub Actions · Redis · PostgreSQL |
+| **Security** | JWT · CSRF · Fernet · SHA-256 audit chains · entropy and homoglyph analysis |
+| **Blockchain** | Hyperledger Besu · Foundry · EZKL · Halo2 |
+
+## GitHub stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harctik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harctik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19" />
+
+<img src="https://streak-stats.demolab.com?user=harctik&theme=tokyonight&hide_border=true&background=0b0f19" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=harctik&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
+
+<img src="https://raw.githubusercontent.com/harctik/harctik/output/github-snake-dark.svg" alt="contribution snake" />
+
+</div>
+
+## Certifications
+
+Arize AI (LLM Evaluation Basics) · Anthropic (Building with the Claude API) · IBM (Generative AI; Python for Data Science) · Infosys Springboard (Advanced Statistics and Data Mining; DBMS) · EXIN BCS (AI Essentials)
+
+## Experience
+
+- **Outlier AI**: Generalist AI Contributor (Sep to Nov 2026), model reasoning and instruction-following evaluation
+- **Infosys Springboard 6.0**: AI/ML Intern (Feb to Apr 2026), built QuantRisk
+- **Zebo.AI with Verzeo**: AI Project Intern (Mar to May 2022), computer vision for fashion classification
+
+<div align="center">
+
+<sub>Open to AI/ML Engineer roles in fraud, identity and risk.</sub>
+
+</div>
