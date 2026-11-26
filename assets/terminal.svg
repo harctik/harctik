@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230"><rect width="1000" height="230" rx="14" fill="#101820" stroke="#22313f"/><circle cx="26" cy="22" r="6" fill="#ff5f56"/><circle cx="46" cy="22" r="6" fill="#ffbd2e"/><circle cx="66" cy="22" r="6" fill="#27c93f"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 230" width="1000" height="230"><rect width="1000" height="230" rx="14" fill="#050505" stroke="#1d2210"/><circle cx="26" cy="22" r="6" fill="#ff5f56"/><circle cx="46" cy="22" r="6" fill="#ffbd2e"/><circle cx="66" cy="22" r="6" fill="#d2f843"/>
 <g font-family="monospace" font-size="17">
-<text x="30" y="70" fill="#ffb000">harthik@ai:~$ <tspan fill="#e6f1ff">python train.py --model kira-125m --quantize int8</tspan><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.2s" fill="freeze"/></text>
+<text x="30" y="70" fill="#d2f843">harthik@ai:~$ <tspan fill="#e6f1ff">python train.py --model kira-125m --quantize int8</tspan><animate attributeName="opacity" values="0;1" dur="0.1s" begin="0.2s" fill="freeze"/></text>
 <text x="30" y="110" fill="#6b7fa8" opacity="0">step 399  val/loss 2.905<animate attributeName="opacity" values="0;1" dur="0.1s" begin="2.8s" fill="freeze"/></text>
-<text x="30" y="134" fill="#27c93f" opacity="0">[ok] int8 quantised, CPU inference ready<animate attributeName="opacity" values="0;1" dur="0.1s" begin="4s" fill="freeze"/></text>
-<text x="30" y="190" fill="#ffb000" opacity="0">harthik@ai:~$ <tspan fill="#e6f1ff">open to work</tspan><animate attributeName="opacity" values="0;1" dur="0.1s" begin="5s" fill="freeze"/></text>
-<rect x="292" y="175" width="10" height="18" fill="#ffb000" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="5.2s" repeatCount="indefinite"/></rect>
+<text x="30" y="134" fill="#d2f843" opacity="0">[ok] int8 quantised, CPU inference ready<animate attributeName="opacity" values="0;1" dur="0.1s" begin="4s" fill="freeze"/></text>
+<text x="30" y="190" fill="#d2f843" opacity="0">harthik@ai:~$ <tspan fill="#e6f1ff">open to work</tspan><animate attributeName="opacity" values="0;1" dur="0.1s" begin="5s" fill="freeze"/></text>
+<rect x="292" y="175" width="10" height="18" fill="#d2f843" opacity="0"><animate attributeName="opacity" values="0;1;0" dur="1s" begin="5.2s" repeatCount="indefinite"/></rect>
 </g></svg>
