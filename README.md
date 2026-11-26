@@ -2,20 +2,20 @@
 
 <img src="assets/hero.svg" alt="Harthik, AI/ML Engineer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Harthik+%7C+AI+%2F+ML+Engineer;Behavioural+Biometrics+%C2%B7+Fraud+Detection;Risk+Analytics+%C2%B7+Deep+Learning+%C2%B7+Blockchain;Building+transformers+from+scratch+in+PyTorch" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=900&color=FFB000&center=true&vCenter=true&width=760&lines=Harthik+%7C+AI+%2F+ML+Engineer;Behavioural+Biometrics+%C2%B7+Fraud+Detection;Risk+Analytics+%C2%B7+Deep+Learning+%C2%B7+Blockchain;Building+transformers+from+scratch+in+PyTorch" alt="Typing SVG" />
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-0b0f19?style=for-the-badge&logo=python&logoColor=00E5FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-0b0f19?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![FastAPI](https://img.shields.io/badge/FastAPI-0b0f19?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Next.js](https://img.shields.io/badge/Next.js-0b0f19?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0b0f19?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Solidity](https://img.shields.io/badge/Solidity-0b0f19?style=for-the-badge&logo=solidity&logoColor=white)
+![Python](https://img.shields.io/badge/Python-101820?style=for-the-badge&logo=python&logoColor=FFB000)
+![PyTorch](https://img.shields.io/badge/PyTorch-101820?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![FastAPI](https://img.shields.io/badge/FastAPI-101820?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Next.js](https://img.shields.io/badge/Next.js-101820?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-101820?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Solidity](https://img.shields.io/badge/Solidity-101820?style=for-the-badge&logo=solidity&logoColor=white)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-harthik-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/harthik)
 [![Email](https://img.shields.io/badge/Email-harthikanand90%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:harthikanand90@gmail.com)
-![Location](https://img.shields.io/badge/Bengaluru-India-00E5FF?style=flat-square)
+![Location](https://img.shields.io/badge/Bengaluru-India-FFB000?style=flat-square)
 
 </div>
 
@@ -68,10 +68,10 @@ class Harthik:
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=harctik&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0b0f19" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harctik&layout=compact&theme=tokyonight&hide_border=true&bg_color=0b0f19" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=harctik&show_icons=true&theme=dark&hide_border=true&bg_color=101820" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harctik&layout=compact&theme=dark&hide_border=true&bg_color=101820" />
 
-<img src="https://streak-stats.demolab.com?user=harctik&theme=tokyonight&hide_border=true&background=0b0f19" />
+<img src="https://streak-stats.demolab.com?user=harctik&theme=dark&hide_border=true&background=101820" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=harctik&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" />
 
@@ -95,6 +95,6 @@ Arize AI (LLM Evaluation Basics) · Anthropic (Building with the Claude API) · 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%" /><br/><sub>Open to AI/ML Engineer roles in fraud, identity and risk.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,20,6&height=120&section=footer&animation=twinkling" width="100%" /><br/><sub>Open to AI/ML Engineer roles in fraud, identity and risk.</sub>
 
 </div>
