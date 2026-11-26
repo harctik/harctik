@@ -4,9 +4,9 @@
 
 <img src="assets/status.v2.svg" alt="AI/ML engineer. Fraud, identity, risk. Transformers from scratch. Open to roles." width="700" />
 
-<a href="mailto:harthikanand90@gmail.com"><img src="assets/btn_primary.v2.svg" height="32" alt="Email me" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/harthik"><img src="assets/btn_linkedin.v2.svg" height="32" alt="LinkedIn" /></a>&nbsp;
-<a href="https://github.com/harctik"><img src="assets/btn_github.v2.svg" height="32" alt="GitHub" /></a>
+<a href="mailto:harthikanand90@gmail.com"><img src="assets/btn_primary.v3.svg" height="32" alt="Email me" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/harthik"><img src="assets/btn_linkedin.v3.svg" height="32" alt="LinkedIn" /></a>&nbsp;
+<a href="https://github.com/harctik"><img src="assets/btn_github.v3.svg" height="32" alt="GitHub" /></a>
 
 <br/><br/>
 
@@ -14,12 +14,12 @@
 
 <table>
 <tr>
-<td><a href="https://frontend-dun-five-49.vercel.app"><img src="assets/card_aetherauth.v2.svg" width="430" alt="AetherAuth, live demo" /></a></td>
-<td><a href="https://pramaanik.vercel.app"><img src="assets/card_pramaanik.v2.svg" width="430" alt="PRAMAANIK, live demo" /></a></td>
+<td><a href="https://frontend-dun-five-49.vercel.app"><img src="assets/card_aetherauth.v3.svg" width="430" alt="AetherAuth, live demo" /></a></td>
+<td><a href="https://pramaanik.vercel.app"><img src="assets/card_pramaanik.v3.svg" width="430" alt="PRAMAANIK, live demo" /></a></td>
 </tr>
 <tr>
-<td><a href="https://github.com/harctik/PhishGuard"><img src="assets/card_phishguard.v2.svg" width="430" alt="PhishGuard, repository" /></a></td>
-<td><a href="https://cryptomanagerapp.vercel.app"><img src="assets/card_quantrisk.v2.svg" width="430" alt="QuantRisk, live demo" /></a></td>
+<td><a href="https://github.com/harctik/PhishGuard"><img src="assets/card_phishguard.v3.svg" width="430" alt="PhishGuard, repository" /></a></td>
+<td><a href="https://cryptomanagerapp.vercel.app"><img src="assets/card_quantrisk.v3.svg" width="430" alt="QuantRisk, live demo" /></a></td>
 </tr>
 </table>
 
