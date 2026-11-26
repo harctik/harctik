@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero3d.webp" alt="Harthik, AI/ML Engineer: 3D animated header" width="100%" />
+<img src="assets/hero.svg" alt="Harthik, AI/ML Engineer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=D2F843&center=true&vCenter=true&width=760&lines=Behavioural+biometrics+and+fraud+detection;Risk+analytics+and+deep+learning;Transformers+from+scratch+in+PyTorch;Open+to+AI%2FML+Engineer+roles" alt="Typing SVG" />
 
