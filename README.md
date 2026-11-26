@@ -6,9 +6,7 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-harthik-050505?style=for-the-badge&logo=linkedin&logoColor=D2F843)](https://www.linkedin.com/in/harthik)
-[![Email](https://img.shields.io/badge/Email-harthikanand90%40gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=D2F843)](mailto:harthikanand90@gmail.com)
-![Visitors](https://komarev.com/ghpvc/?username=harctik&color=D2F843&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://www.linkedin.com/in/harthik"><img src="assets/b_linkedin.svg" height="44" /></a> <a href="mailto:harthikanand90@gmail.com"><img src="assets/b_email.svg" height="44" /></a> <img src="assets/b_open.svg" height="44" />
 
 </div>
 
